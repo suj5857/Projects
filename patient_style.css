@@ -1,0 +1,14 @@
+.thead{
+    background-color: black;
+    color: white;
+}
+.we{
+    font-weight:bolder;
+}
+#pd{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-weight:unset;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
